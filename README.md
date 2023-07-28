@@ -2,7 +2,7 @@
 
 Este es un proyecto de ejemplo que muestra cómo implementar la arquitectura Domain-Driven Design (DDD) en una API web utilizando .NET y ASP.NET Core.
 
-![Imagen][ruta/a/imagen.png](https://rjcodeadvance.com/wp-content/uploads/2019/10/image-8.png)
+![Imagen][https://rjcodeadvance.com/wp-content/uploads/2019/10/image-8.png]
 
 ## ¿Qué es DDD?
 

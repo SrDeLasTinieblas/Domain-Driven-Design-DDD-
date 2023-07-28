@@ -45,8 +45,10 @@ El proyecto sigue una estructura de carpetas comúnmente utilizada en aplicacion
 ¡Las contribuciones son bienvenidas! Si tienes ideas de mejora, sugerencias o correcciones, no dudes en abrir un pull request o crear un issue.
 
 ## Capturas de Pantalla (opcional)
-
 _(Si deseas mostrar capturas de pantalla de la API en funcionamiento o diagramas de la arquitectura, este es el lugar para hacerlo)_
+![Imagen](https://github.com/SrDeLasTinieblas/Domain-Driven-Design-DDD-/blob/master/images/Captura%20de%20pantalla%202023-07-28%20111112.png)
+![Imagen](https://github.com/SrDeLasTinieblas/Domain-Driven-Design-DDD-/blob/master/images/Captura%20de%20pantalla%202023-07-28%20111245.png)
+
 
 ## Licencia
 
